@@ -1,4 +1,9 @@
 ### Hi there 👋
+I’m a developer who loves turning ideas into something real — from small side projects to full-scale platforms.
+
+💻 I build web apps with Next.js, React, and TypeScript, often mixing in Python or Docker when things get serious.
+☁️ I enjoy automating, deploying, and making complex setups feel simple.
+🧠 Sometimes I dive into AI, security, or systems engineering just to see how deep the rabbit hole goes.
 
 <!--
 **Auxburger/auxburger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
